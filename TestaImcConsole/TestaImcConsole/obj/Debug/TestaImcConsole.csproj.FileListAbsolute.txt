@@ -1,0 +1,18 @@
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.pdb
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe.config
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.exe
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.pdb
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.pdb
+D:\SEGUNDA (deluqui)\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe.config
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.exe
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.pdb
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.exe
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\bin\Debug\TestaImcConsole.pdb
+C:\Users\Aluno\Desktop\TestaImcConsole\TestaImcConsole\obj\Debug\TestaImcConsole.csprojResolveAssemblyReference.cache
